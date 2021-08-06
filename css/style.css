@@ -683,7 +683,7 @@ body.section-show .transition-mask:before{
 .info-list > li{
 	margin-bottom:20px;
 	float:left;
-	width:34%;
+	width:45%;
 }
 .info-list > li > .inner{
 	padding:15px 0;
@@ -701,7 +701,7 @@ body.section-show .transition-mask:before{
 	color:#333;
 }
 .info-list > li > .inner > p{
-	font-size:14px;
+	font-size:16px;
 	color:#777;
 	display:block;
 }
